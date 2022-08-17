@@ -1,23 +1,38 @@
-# BabylonBazar
-An online market - from shoppers, by the shoppers
+Babylon Bazaar is an online shop themed around an ancient babylonian bazaar where people/users can buy and sell various items.
 
-# The WHY
-This here project is our final team project in CodeCool. Our previous team project was on the same lines and we wanted to do "a propper job".
+Babylon Bazaar is still in development and currently we just finished the 4th sprint (each sprint has 4 days)
 
-# The WHAT
-This project is in development. It is intended as a fully opertional online market where anyone can sell and buy anything (hence the name bazar). 
+The technologies we used for this project are:
 
-# The HOW
-ASP.NET is used for the backend, while React is used for frontend. Data is sored dinamically in an Entity maintain MSSQL database.
-Following is the final intended funtionality (unless we think of something else to add). A visitor may see and search available products, but anything else
-requires registration. A registered user can act as a buyer or a seller.
-As a seller, he registers products he desires to sell, which will be reviewed by an admin and posted on the site. When buyers waht theyr products, they
-receive a notification saying what they need to deliver and where. After delivery the payment is deivered into their account as credits. Those credits can
-be used to make purchaises of their own or converted to hard cash using the creditcard of choice.
-As a buyer, a user can add products to his own shoppingcart, modify that shopping cart, then place an order with its contents. This will notify all the
-sellers of all products in that cart they are expected to deliver. The value of the items is deducted from the buyer credits, but if the delivery does not happen
-they may request a refund. The buyer must select his delivery address of choice in order to process the cart. Also, at any time, he can load or unload credits to
-his account using the creditcard of choice. This service is provided by a third party. A buyer can also leave comments and rate products.
+React, Webstorm, Photoshop and CSS for the Frontend
 
-# The WHO
-This project is being worked on by a team of two - myself and Sergiu Pert.
+![react](https://user-images.githubusercontent.com/89579316/185109098-0b3fdc6a-cb96-4153-8c79-b0f44a243249.jpg)
+![webstorm](https://user-images.githubusercontent.com/89579316/185109151-e681da61-ac81-4b6d-892e-38c0f414462e.jpg)
+![photoshop](https://user-images.githubusercontent.com/89579316/185109186-c39aff6b-7b9b-4ec5-b127-cee23e51c8fb.jpg)
+![css](https://user-images.githubusercontent.com/89579316/185109159-c1016cac-e63d-4f01-b96b-0ba8302d97fb.jpg)
+
+C#, Visual studio and ASP.NET Core for the backend
+
+![C#](https://user-images.githubusercontent.com/89579316/185109331-6d9c3bc8-e555-4d48-bbb0-6ed4bfe8f48a.jpg)
+![VS](https://user-images.githubusercontent.com/89579316/185109336-2200ace4-5b32-4909-a0ce-3e0f961004b0.jpg)
+![aspnet](https://user-images.githubusercontent.com/89579316/185109347-dde51f9f-3323-4ae0-9451-51a3020420f2.jpg)
+
+Git hub for version control and Jira for task management
+
+![git](https://user-images.githubusercontent.com/89579316/185109868-bb69dce3-2ad8-4dd1-ae31-5d4337b45526.jpg)
+![jira](https://user-images.githubusercontent.com/89579316/185109883-7c2f5c84-5d90-47ea-a60c-677598a08415.jpg)
+
+Website features (in progress):
+- Every user can make an account and buy products
+- Every user can add and sell their own products
+- Products are filtered by categories and sub categories
+- Users have a profile page where they can edit their credentials, add edit and delete delivery locations and add or delete registered credit cards
+- The website is responsive on any PC resolution
+
+Screenshots (the product and profile images are just placeholders for now):
+
+![bb1](https://user-images.githubusercontent.com/89579316/185111288-ad89af81-fd63-4a99-a444-01ac68d2366e.JPG)
+
+![bb2](https://user-images.githubusercontent.com/89579316/185111332-68d319d0-28e9-4920-a51b-2ae4c3540696.JPG)
+
+![bb3](https://user-images.githubusercontent.com/89579316/185111354-bdfe19d4-8c1f-4c24-93c3-0b03f8b79204.JPG)
