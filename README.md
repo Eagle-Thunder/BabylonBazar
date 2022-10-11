@@ -1,6 +1,6 @@
 Babylon Bazaar is an online shop themed around an ancient babylonian bazaar where people/users can buy and sell various items.
 
-Babylon Bazaar is still in development and currently we just finished the 4th sprint (each sprint has 4 days)
+The project was finished in 6 sprints.
 
 Team members: Pert Sergiu & Radu Brezeanu
 
